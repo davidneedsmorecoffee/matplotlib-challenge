@@ -3,9 +3,12 @@
 The sample data set is based on 250 mice treated through a variety of drug regimes over the course of 45 days. 
 - Their physiological responses were then monitored over the course of that time. 
 
+
 The goal of the analysis is to evaluate how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare.
 
+
 `Pandas Library`, `Matplotlib library`, and `Jupyter Notebook` were used.
+
 
 Several plots were constructed as part of the report:
 - scatter plot that shows how the tumor volume changes over time for each treatment.
