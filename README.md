@@ -5,7 +5,7 @@
 
 #### The goal of the analysis is to evaluate how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare.
 
-`Pandas Library`, `Matplotlib library`, and `Jupyter Notebook` were used.
+- `Pandas Library`, `Matplotlib library`, and `Jupyter Notebook` were used.
 
 
 #### Several plots were constructed as part of the report:
