@@ -8,7 +8,7 @@
 `Pandas Library`, `Matplotlib library`, and `Jupyter Notebook` were used.
 
 
-### Several plots were constructed as part of the report:
+#### Several plots were constructed as part of the report:
 - scatter plot that shows how the tumor volume changes over time for each treatment.
 - scatter plot that shows how the number of metastatic (cancer spreading) sites changes over time for each treatment.
 - scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
